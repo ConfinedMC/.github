@@ -1,3 +1,1 @@
-Confined to a Prison in Minecraft? You might be playing on ConfinedMC!
-
-https://confined.studio/about
+Why are you snooping in the `.github` repo? Expecting to find something juicy?
